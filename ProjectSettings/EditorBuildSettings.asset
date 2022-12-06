@@ -14,4 +14,77 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AssetStore/Customizable Skybox/Scenes/DemoScene.unity
     guid: 1811a0c822d2a6c45b5d1435bf7d07d2
+  - enabled: 1
+    path: Assets/AssetStore/Greek Monster Pack/Scenes/Demo.unity
+    guid: 36094d322be3093499dff9d70c4595a0
+  - enabled: 1
+    path: Assets/AssetStore/Blink/Art/Characters/LowPoly/Demo_FREE_LowPolyCharacter/DEMO_FREE_LowPolyHumans.unity
+    guid: e87512b69b78be84c91c6df3977d8383
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/13- Swimming
+      state/Scene/WalkthroughScene13.unity
+    guid: dd899887b2fc18b46b5bd2b474774a2d
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/5- Adding velocities
+      and impulses/Scene/WalkthroughScene5.unity
+    guid: 72f69ede5f46b3346a594a903a529a3b
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/16- FramePerfect
+      Rotation/Scene/WalkthroughScene16.unity
+    guid: 2f43bad5593a08441acafcff9faa40ca
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/4- Landing and
+      leaving ground/Scene/WalkthroughScene4.unity
+    guid: be9d19b057b8aaa4e8b5f70b92ff6e53
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/1- Player Camera
+      Character Setup/Scene/WalkthroughScene1.unity
+    guid: 51116ce509f204c439bf161c3492f5f2
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/6- Crouching/Scene/WalkthroughScene6.unity
+    guid: 5cf941e64de8d2f4db87a028ca727a28
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Examples/Scenes/CharacterPlayground.unity
+    guid: 49c21577d8fcba049bf2f94ab33e2dc2
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/15- Root motion
+      example/Scene/WalkthroughScene15.unity
+    guid: f8deea874bdd53049918db3ce04e295a
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/10- Multiple
+      movement states setup/Scene/WalkthroughScene10.unity
+    guid: 2500a88107e4f1f469181f22f53c0b3f
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/9- Custom collision
+      filtering/Scene/WalkthroughScene9.unity
+    guid: 8cc49b03a1094994ebd78092eb7b94d7
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/7- Orienting
+      towards arbitrary up direction/Scene/WalkthroughScene7.unity
+    guid: 91d7fc9842553e74aa71f6322dbeb400
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/2- Basic Movement
+      and Gravity/Scene/WalkthroughScene2.unity
+    guid: b93d989c225d3c141837b9502077ea4d
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/11- Charging
+      state/Scene/WalkthroughScene11.unity
+    guid: 080c10a3703549c47b115b24b77e16ea
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/14- Climbing
+      Ladders/Scene/WalkthroughScene14.unity
+    guid: 99217385d36556848a4019cc1e7fa0d8
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Examples/Scenes/StressTest.unity
+    guid: e7e6427a6e574f24797a36b087c19a17
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/12- NoClip state/Scene/WalkthroughScene12.unity
+    guid: 4c51b3a6a6cbf9e478da8e6dc6e68697
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/8- Creating
+      a moving platform/Scene/WalkthroughScene8.unity
+    guid: f274f7ebe2ca52e4da40ffda0ce3320e
+  - enabled: 1
+    path: Assets/AssetStore/KinematicCharacterController/Walkthrough/3- Jumping/Scene/WalkthroughScene3.unity
+    guid: 10d8a9820a4bc8641b664104d8ab9b0b
   m_configObjects: {}
